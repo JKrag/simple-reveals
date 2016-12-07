@@ -14,6 +14,4 @@ Some speaker notes you can access by pressing 's' during a presentation!
 >>>>NEWSLIDE
 ## Oh hello!
 
-```
-How nice of you to drop by to see this preformatted text block!
-```
+`How nice of you to drop by to see this preformatted text!`
