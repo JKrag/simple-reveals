@@ -6,10 +6,11 @@ _An italic author!_
 ## A new slide!
 <img src="img/jan.png" alt="Jan Krag" width="30%"/>
 
-**Some bold text describing this handsome gentleman!**
+**Some bold text describing this _handsome_ gentleman!**
 
 Note:
 Some speaker notes you can access by pressing 's' during a presentation!
+Very handy!
 
 >>>>NEWSLIDE
 ## Oh hello!
